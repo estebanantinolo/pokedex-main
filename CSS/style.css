@@ -1,0 +1,19 @@
+body {
+    background-image: url(./../Imagenes/kanto-map.jpeg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: #FFFFFF;
+    font-family: "Pixelify Sans";
+}
+
+h1 {
+text-decoration-color: aqua;
+text-align: center;
+background-color: rgba(0, 0, 0, 0.253);
+}
+
+@font-face {
+    font-family: "Pixelify Sans";
+    src: url(./../Letra/Pixelify_Sans/PixelifySans-VariableFont_wght.ttf);
+}
