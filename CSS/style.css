@@ -7,13 +7,58 @@ body {
     font-family: "Pixelify Sans";
 }
 
+.pikachu {
+    background-image: url(./../Imagenes/fondogeneral.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: #FFFFFF;
+    
+}
+
 h1 {
-text-decoration-color: aqua;
 text-align: center;
 background-color: rgba(0, 0, 0, 0.253);
+margin-left: 650px;
+margin-right: 650px;
 }
 
 @font-face {
     font-family: "Pixelify Sans";
     src: url(./../Letra/Pixelify_Sans/PixelifySans-VariableFont_wght.ttf);
 }
+
+
+
+.electrico {
+background-color: blue;
+
+}
+
+p {
+    background-color: rgba(0, 0, 0, 0.253);
+    font-size: 30px;
+}
+
+.pikachuimg {
+width: 400px;
+height: 400px;
+background-color: rgba(0, 255, 255, 0.568);
+border-radius: 5px;
+
+}
+
+
+.pikachuimg2 {
+    width: 400px;
+    height: 400px;
+    background-color: rgba(0, 255, 255, 0.151);
+    border-radius: 5px;
+
+    }
+
+
+a {
+    color: azure;
+}
+
